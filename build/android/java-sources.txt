@@ -1,0 +1,7 @@
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/jgg/VandalDining/ApplicationStylesheet.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/jgg/VandalDining/R.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/jgg/VandalDining/VandalDiningActivity.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/jgg/VandalDining/VandalDiningAppInfo.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/jgg/VandalDining/VandalDiningApplication.java"
+"C:/Users/Jessica/Documents/Titanium_Studio_Workspace/Vandal Dining/build/android/gen/ti/modules/titanium/ui/R.java"
